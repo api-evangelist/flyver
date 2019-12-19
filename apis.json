@@ -1,0 +1,55 @@
+{
+    "name": "Flyver",
+    "description": "<p><span style=\"white-space: pre;\">Flyver is a company passionate about the future of drones. We're building the future by developing industrial solutions to solve problems in various vertical sectors. Drones are poised to revolutionize most sectors of the economy and we're making it happen. Agriculture, Security, Insurance, Oil and Gas to start with.<br \/><\/span><\/p>",
+    "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/api-evangelist-site\/company\/logos\/flyver-drones.jpeg",
+    "tags": [
+        "agriculture",
+        "api provider",
+        "drones",
+        "have api",
+        "surveillance"
+    ],
+    "created": "2019-12-19",
+    "modified": "2019-12-19",
+    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/flyver\/master\/apis.json",
+    "specificationVersion": "0.14",
+    "apis": [
+        {
+            "name": "Flyver",
+            "description": null,
+            "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/api-evangelist-site\/company\/logos\/flyver-drones.jpeg",
+            "humanURL": "http:\/\/flyver.co\/",
+            "baseURL": "",
+            "tags": [],
+            "properties": [
+                {
+                    "type": "x-openapi",
+                    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/1forge\/master\/flyver-openapi.json"
+                }
+            ]
+        }
+    ],
+    "include": [],
+    "x-common": [
+        {
+            "type": "Blog",
+            "url": "http:\/\/flyver.co\/blog\/"
+        },
+        {
+            "type": "Blog RSS",
+            "url": "http:\/\/flyver.co\/feed\/"
+        },
+        {
+            "type": "Github",
+            "url": "https:\/\/github.com\/flyver"
+        },
+        {
+            "type": "Twitter",
+            "url": "https:\/\/twitter.com\/flyverdrones"
+        },
+        {
+            "type": "Website",
+            "url": "http:\/\/flyver.co\/"
+        }
+    ]
+}
